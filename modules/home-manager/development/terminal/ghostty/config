@@ -1,0 +1,5 @@
+window-decoration = none
+theme = catppuccin-mocha
+font-family = "MonaspiceNe Nerd Font"
+font-size = 14
+cursor-style = block
