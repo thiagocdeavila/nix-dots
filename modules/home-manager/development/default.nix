@@ -6,6 +6,7 @@
     ./emacs
     ./git.nix
     ./languages.nix
+    ./neovim
     ./shell.nix
     ./terminal
     ./vpn.nix

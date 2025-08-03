@@ -23,7 +23,7 @@
   networking.networkmanager.enable = true;
 
   services.xserver.enable = true;
-  services.xserver.displayManager.gdm.enable = true;
+  services.displayManager.gdm.enable = true;
   services.displayManager.sessionPackages = with pkgs; [niri];
 
   xdg.portal = {
@@ -55,7 +55,6 @@
 
   environment.systemPackages = with pkgs; [
     git
-    neovim
     gparted
   ];
 

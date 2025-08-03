@@ -4,9 +4,6 @@
     alejandra
 
     elixir
-    lexical
-    elixir-ls
-
     erlang
 
     gcc
